@@ -1,7 +1,7 @@
 ## Hola, soy Irina 👋
 **Desarrolladora BackEnd**  
 📍 España
-###Tecnologías:
+**Tecnologías:**
 -HTML / CSS / JS
 -.Net / C# 
 - SQL / MySql
