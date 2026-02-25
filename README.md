@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola, soy Irina 👋
+**Desarrolladora BackEnd**  
+📍 España
+###Tecnologías:
+-HTML / CSS / JS
+-.Net / C# 
+- SQL / MySql
+### Contacto:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/irina-díaz-castillo-2b5b701b5)
 
 <!--
 **irinadiaz22/irinadiaz22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
