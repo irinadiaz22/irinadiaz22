@@ -1,10 +1,9 @@
-## Hola, soy Irina 👋
-**Desarrolladora BackEnd**  
-📍 España
-**Tecnologías:**
--HTML / CSS / JS
--.Net / C# 
-- SQL / MySql
+# Hola, soy Irina 👋
+## Desarrolladora BackEnd  📍 España
+### Tecnologías:
+> -HTML / CSS / JS
+> -.Net / C# 
+> - SQL / MySql
 ### Contacto:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/irina-díaz-castillo-2b5b701b5)
 
